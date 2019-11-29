@@ -1,11 +1,10 @@
-import datetime as date
-from date import datetime
+import datetime
+from datetime import datetime
+today = datetime.datetime.today()
+print(today)
 
-today = date.datetime.today()
+#if __name__ == '__main__':
 
-
-if __name__ == '__main__':
-
-    app.run()
+ #   app.run()
 
     
